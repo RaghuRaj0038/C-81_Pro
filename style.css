@@ -1,0 +1,16 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://irzffdpqtfwkmwcgj8keow-on.drv.tw/C-81/bg1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#my_canvas{
+background-color: white;
+border-style: ridge;
+border-width: 10;
+}
